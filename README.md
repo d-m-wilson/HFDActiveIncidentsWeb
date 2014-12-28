@@ -4,6 +4,10 @@ A simple web application to visualize [active incidents data](https://github.com
 Copyright © 2014 [David M. Wilson](https://twitter.com/dmwilson_dev)<br />
 Licensed under the [GNU GPL v3](https://github.com/d-m-wilson/HFDActiveIncidentsWeb/blob/master/LICENSE)
 
+#### Live Instances
+Production: http://dmwilson.info<br />
+Development: http://dev.dmwilson.info
+
 ### Attributions
 Coloured Markers for Google Maps (http://www.benjaminkeen.com/google-maps-coloured-markers/)<br />
 Copyright © 2007 Benjamin Keen<br />

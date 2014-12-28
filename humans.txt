@@ -1,0 +1,16 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    David M. Wilson -- Lead Developer -- @dmwilson_dev
+
+# THANKS
+
+    Benjamin Keen http://www.benjaminkeen.com/google-maps-coloured-markers/
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    jQuery, Modernizr
+    Bootstrap, Google Maps API

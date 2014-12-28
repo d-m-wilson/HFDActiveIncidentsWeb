@@ -1,0 +1,65 @@
+/*
+// HFD Active Incidents
+// Copyright © 2014 David M. Wilson
+// https://twitter.com/dmwilson_dev
+//
+// This program is free software: you can redistribute it and/or modify
+// it under the terms of the GNU General Public License as published by
+// the Free Software Foundation, either version 3 of the License, or
+// (at your option) any later version.
+//
+// This program is distributed in the hope that it will be useful,
+// but WITHOUT ANY WARRANTY; without even the implied warranty of
+// MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+// GNU General Public License for more details.
+//
+// You should have received a copy of the GNU General Public License
+// along with this program.  If not, see <http://www.gnu.org/licenses/>.
+*/
+
+#map-canvas-top-spacer {
+    display: block;
+    width: 100px;
+    height: 20px;
+}
+
+#map-instructions {
+    padding: 3px 0 3px 0;
+}
+
+@media (max-width: 767px) {
+    #map-instructions {
+        padding: 22px 0 3px 0;
+    }
+}
+
+#map-canvas {
+    display: block;
+    height: 400px;
+}
+
+span.iw-text-label {
+    font-weight: bold;
+}
+
+#pre-map-loading {
+    height: 25px;
+    position: relative;
+    top: 50%;
+    text-align: center;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+#map-data-loading {
+    display: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-weight: bold;
+    font-size: 15px;
+    color: White;
+    background-color: #444;
+    padding: 10px;
+    z-index: 100;
+}

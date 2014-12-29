@@ -1,7 +1,7 @@
 # HFDActiveIncidentsWeb
 A client-side-Javascript-driven web application to visualize active incidents data from the [Houston Fire Department](http://houstontx.gov/fire/) using [Google Maps JavaScript API](https://developers.google.com/maps/web/). The server-side components can be found [here](https://github.com/d-m-wilson/HFDActiveIncidentsBackend/).
 
-[![Screenshot](http://i.imgur.com/jxjd5ZMl.png)](http://i.imgur.com/jxjd5ZM.png)
+[![Screenshot](http://i.imgur.com/Bu1dNsWl.png)](http://i.imgur.com/Bu1dNsW.png)
 
 Copyright © 2014 [David M. Wilson](https://twitter.com/dmwilson_dev)  
 Licensed under the [GNU GPL v3](https://github.com/d-m-wilson/HFDActiveIncidentsWeb/blob/master/LICENSE)

@@ -7,8 +7,8 @@ Copyright © 2014 [David M. Wilson](https://twitter.com/dmwilson_dev)
 Licensed under the [GNU GPL v3](https://github.com/d-m-wilson/HFDActiveIncidentsWeb/blob/master/LICENSE)
 
 #### Live Instances
-Production: http://dmwilson.info  
-Development: http://dev.dmwilson.info
+Production: http://dmwilson.info
+Development: http://dev.dmwilson.info (Now with traffic data!)
 
 #### Attributions
 Coloured Markers for Google Maps (http://www.benjaminkeen.com/google-maps-coloured-markers/)  
